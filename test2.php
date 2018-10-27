@@ -36,7 +36,7 @@ echo "This is PHP output.";
 		<p>This is fourth testing message.</p>
 	</div>
 	<div>
-		<p>This is fifth testing message.</p>
+		<p>This is fifth message.</p>
 	</div>
 </body>
 
