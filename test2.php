@@ -41,6 +41,9 @@ echo "This is PHP output.";
 	<div>
 		<p>This is sixth message.</p>
 	</div>
+	<div>
+		<p>This is seventh message.</p>
+	</div>
 </body>
 
 </html>
